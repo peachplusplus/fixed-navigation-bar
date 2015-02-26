@@ -36,12 +36,14 @@ a:link, a:visited, a:hover, a:active {
 
 /* LAYOUT */
 .fixed-nav-bar {
-  box-shadow: 0px 0px 3px 0px rgba(50, 50, 50, 0.6);
+  color: rgb(0,0,0);
+/*
+  box-shadow: 0px 0px 3px 0px rgb(0,0,0);*/
 }
 
 .content {
   position: relative;
-  background: #464646 url(59H-from-gratisography.jpg) no-repeat center center fixed;
+  background: #464646 url(fruitblur.jpg) no-repeat center center fixed;
   background-size: cover;
  }
 .description, .some-related-articles {
